@@ -8,7 +8,7 @@ This project was created with the MVC pattern and provider architecture to liste
 
 ## Previews
 
-(https://i.postimg.cc/F7BxHFsW/IMG-9086.png)
+[](https://i.postimg.cc/F7BxHFsW/IMG-9086.png)
 (https://i.postimg.cc/7CvMSBzS/IMG-9087.png)
 (https://i.postimg.cc/MnfmMknW/IMG-9091.png)
 
